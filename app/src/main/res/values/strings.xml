@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cadastro Notas Alunos</string>
+    <string name="relacao_notas">Relação de Notas</string>
+    <string name="relacao_media">Relação de Médias</string>
+    <string name="cadastro_notas_alunos">Cadastro de notas de alunos</string>
+</resources>

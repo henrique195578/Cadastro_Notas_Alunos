@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid
+        android:color="#00FFFFFF"/> <!-- Cor de fundo transparente -->
+
+    <stroke
+        android:width="2dp"
+        android:color="#FF0000"/> <!-- Cor da linha vermelha -->
+
+    <padding
+        android:left="4dp"
+        android:top="4dp"
+        android:right="4dp"
+        android:bottom="4dp"/><!-- Espaçamento da linha em relação ao conteúdo -->
+
+</shape>
